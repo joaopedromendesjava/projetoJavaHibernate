@@ -74,7 +74,7 @@ public class daoGeneric<E> {
 		
 	}
 	
-	public EntityManager getEntityManager() {
+	public EntityManager getEntityManager() { //get do entity manager para utilizar no teste
 		return entityManager;
 	}
 	

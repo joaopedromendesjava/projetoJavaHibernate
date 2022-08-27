@@ -9,6 +9,7 @@ xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org
 	
 	
 	<class>model.usuarioPessoa</class>
+	<class>model.telefoneUser</class>
 	
 	<properties>
 	<!-- Dados de conexão com o banco -->
